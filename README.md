@@ -43,6 +43,8 @@ I am a Final year student pursuing Computer Science at Manipal Institute of Tech
 ---
 
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#1](https://github.com//shashank3199/VisioNxN-Sudoku/issues/1) in [shashank3199/VisioNxN-Sudoku](https://github.com//shashank3199/VisioNxN-Sudoku)
+2. 🗣 Commented on [#1](https://github.com//shashank3199/VisioNxN-Sudoku/issues/1) in [shashank3199/VisioNxN-Sudoku](https://github.com//shashank3199/VisioNxN-Sudoku)
 <!--END_SECTION:activity-->
 
 ---
