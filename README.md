@@ -31,17 +31,15 @@ I am a Final year student pursuing Computer Science at Manipal Institute of Tech
 <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
 </p>
 
-<br>
-
 ### Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/shashank-goyal-361362168/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/shashank-goyal-361362168/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>&nbsp;&nbsp;
 <a href="mailto:shashank3199@gmail.com" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="30" width="30" /></a>
 </p>
 
 ---
-
+:zap: Recent Activity -
 <!--START_SECTION:activity-->
 1. ❗️ Closed issue [#1](https://github.com//shashank3199/VisioNxN-Sudoku/issues/1) in [shashank3199/VisioNxN-Sudoku](https://github.com//shashank3199/VisioNxN-Sudoku)
 2. 🗣 Commented on [#1](https://github.com//shashank3199/VisioNxN-Sudoku/issues/1) in [shashank3199/VisioNxN-Sudoku](https://github.com//shashank3199/VisioNxN-Sudoku)
