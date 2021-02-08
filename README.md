@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Shashank Goyal aka TheLearningPanda &nbsp;&nbsp; <img src="https://github.com/shashank3199/shashank3199/blob/master/.data/panda_waving.gif" width="50" height="50"/></h1>
+<h2 align="center">Hi 👋, I'm Shashank Goyal aka TheLogicalPanda &nbsp;&nbsp; <img src="https://github.com/shashank3199/shashank3199/blob/master/.data/panda_waving.gif" width="50" height="50"/></h1>
 <h6 align="center">:robot: Robotics | :heart: Programming | :black_heart: Cyber Security</h3>
 
 I am a Final year student pursuing Computer Science at Manipal Institute of Technology, Karnataka. I am an aspiring Roboticist and am trying to develop skills in the field of Cyber Security.
