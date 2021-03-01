@@ -6,8 +6,8 @@ I am a Final year student pursuing Computer Science at Manipal Institute of Tech
 - 🔭 I'm currently working on projects including deep-learning, computer-vision and robotics.
 - 🤝 I’m looking to collaborate with other developers in these domains.
 - 💬 Ask me about anything. I will try to help you as much as I can.
-- 🥅 2020 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love to sketch and solve puzzles.
+- 🥅 2021 Goals: Contribute more to Open Source projects.
+- ⚡ Fun fact: I love solving puzzles.
 
 ### Languages and Tools:
 
