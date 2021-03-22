@@ -44,7 +44,7 @@ I am a Final year student pursuing Computer Science at Manipal Institute of Tech
 ---
 :zap: Recent Activity -
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/shashank3199/GeneticAlgorithm-ZeroOneKnapsack/pull/5) in [shashank3199/GeneticAlgorithm-ZeroOneKnapsack](https://github.com/shashank3199/GeneticAlgorithm-ZeroOneKnapsack)
+1. 🎉 Merged PR [#1](https://github.com/shashank3199/Tetrominoes-NEAT_AI/pull/1) in [shashank3199/Tetrominoes-NEAT_AI](https://github.com/shashank3199/Tetrominoes-NEAT_AI)
 2. 💪 Opened PR [#5](https://github.com/shashank3199/GeneticAlgorithm-ZeroOneKnapsack/pull/5) in [shashank3199/GeneticAlgorithm-ZeroOneKnapsack](https://github.com/shashank3199/GeneticAlgorithm-ZeroOneKnapsack)
 <!--END_SECTION:activity-->
 
