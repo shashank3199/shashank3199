@@ -55,10 +55,8 @@ I am a Final year student pursuing Computer Science at Manipal Institute of Tech
 ---
 
 <details>
+<br>
 <summary>:zap: Top Languages</summary>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashank3199&langs_count=5" alt="shashank3199" /> <br>
 </details>
-
 <br>
-
----
