@@ -50,7 +50,7 @@ I am a Final year student pursuing Computer Science at Manipal Institute of Tech
 
 ---
 
-<img align="center" src="https://github-readme-stats-eight-coral.vercel.app/api?username=shashank3199&show_icons=true&include_all_commits=true&count_private=true" alt="shashank3199" />
+<img align="center" src="https://github-readme-stats-id30r9ce5-shashank3199.vercel.app/api?username=shashank3199&show_icons=true&include_all_commits=true&count_private=true" alt="shashank3199" />
 
 ---
 
