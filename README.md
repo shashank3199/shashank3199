@@ -37,8 +37,8 @@ I am a Final year student pursuing Computer Science at Manipal Institute of Tech
 ### Connect with me:
 
 <p align="left">
-<a href="https://www.linkedin.com/in/shashank-goyal-361362168/" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="30" width="30" /></a>&nbsp;&nbsp;
-<a href="mailto:shashank3199@gmail.com" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Email" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/shashank-goyal-361362168/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
+<a href="mailto:shashank3199@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
 
 ---
@@ -50,13 +50,10 @@ I am a Final year student pursuing Computer Science at Manipal Institute of Tech
 
 ---
 
-<img align="center" src="https://github-readme-stats-id30r9ce5-shashank3199.vercel.app/api?username=shashank3199&show_icons=true&include_all_commits=true&count_private=true" alt="shashank3199" />
+<p align="center">
+<img src="https://github-readme-stats-id30r9ce5-shashank3199.vercel.app/api?username=shashank3199&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&include_all_commits=true" alt="shashank3199" height="190"/>
+  &emsp;
+<img src="https://github-readme-stats-id30r9ce5-shashank3199.vercel.app/api/top-langs/?username=shashank3199&langs_count=10&layout=compact&hide=javascript,html&exclude_repo=github-readme-stats,Ctrl-C" alt="shashank3199"/>
+</p>
 
 ---
-
-<details>
-<br>
-<summary>:zap: Top Languages</summary>
-<img align="left" src="https://github-readme-stats-id30r9ce5-shashank3199.vercel.app/api/top-langs/?username=shashank3199&langs_count=10&layout=compact&exclude_repo=github-readme-stats,Ctrl-C" alt="shashank3199" /> <br>
-</details>
-<br>
