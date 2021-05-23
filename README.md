@@ -51,9 +51,9 @@ I am a Final year student pursuing Computer Science at Manipal Institute of Tech
 ---
 
 <p align="center">
-<img src="https://github-readme-stats-id30r9ce5-shashank3199.vercel.app/api?username=shashank3199&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&include_all_commits=true" alt="shashank3199" height="190"/>
+<img src="https://github-readme-stats-id30r9ce5-shashank3199.vercel.app/api?username=shashank3199&show_icons=true&include_all_commits=true&count_private=true&hide=contribs&include_all_commits=true" alt="shashank3199" width="450"/>
   &emsp;
-<img src="https://github-readme-stats-id30r9ce5-shashank3199.vercel.app/api/top-langs/?username=shashank3199&langs_count=10&layout=compact&hide=javascript,html&exclude_repo=github-readme-stats,Ctrl-C" alt="shashank3199"/>
+<img src="https://github-readme-stats-id30r9ce5-shashank3199.vercel.app/api/top-langs/?username=shashank3199&langs_count=10&layout=compact&hide=javascript,html&exclude_repo=github-readme-stats,Ctrl-C" alt="shashank3199" height="154.55"/>
 </p>
 
 ---
