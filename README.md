@@ -44,8 +44,8 @@ I am a Final year student pursuing Computer Science at Manipal Institute of Tech
 ---
 :zap: Recent Activity -
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#11480](https://github.com/arduino/Arduino/issues/11480) in [arduino/Arduino](https://github.com/arduino/Arduino)
-2. ❗️ Opened issue [#11479](https://github.com/arduino/Arduino/issues/11479) in [arduino/Arduino](https://github.com/arduino/Arduino)
+1. ❌ Closed PR [#17](https://github.com/RoboManipal/Libraries/pull/17) in [RoboManipal/Libraries](https://github.com/RoboManipal/Libraries)
+2. ❗️ Closed issue [#15](https://github.com/RoboManipal/Libraries/issues/15) in [RoboManipal/Libraries](https://github.com/RoboManipal/Libraries)
 <!--END_SECTION:activity-->
 
 ---
