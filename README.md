@@ -43,7 +43,7 @@ I am a Final year student pursuing Computer Science at Manipal Institute of Tech
 </p>
 
 ---
-:zap: 📕 Latest Blog Posts -
+📕 Latest Blog Posts -
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
