@@ -45,7 +45,7 @@ I am a Final year student pursuing Computer Science at Manipal Institute of Tech
 ---
 📕 Latest Blog Posts -
 <!-- BLOG-POST-LIST:START -->
-- [Genetic Algorithms to solve the Zero-One Knapsack Problem: Implementation](https://shashank3199.medium.com/genetic-algorithms-to-solve-the-zero-one-knapsack-problem-implementation-26c1982f44b3?source=rss-e85e3a6012ba------2)
+- [Genetic Algorithms to solve the Zero-One Knapsack Problem: Implementation](https://faun.pub/genetic-algorithms-to-solve-the-zero-one-knapsack-problem-implementation-26c1982f44b3?source=rss-e85e3a6012ba------2)
 - [Genetic Algorithms to solve the Zero-One Knapsack Problem](https://faun.pub/genetic-algorithms-to-solve-the-zero-one-knapsack-problem-d38856beaa35?source=rss-e85e3a6012ba------2)
 <!-- BLOG-POST-LIST:END -->
 
