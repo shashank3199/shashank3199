@@ -37,7 +37,7 @@ I am a Final year student pursuing Computer Science at Manipal Institute of Tech
 ### Connect with me:
 
 <p align="left">
-<a href="https://shashank3199.medium.com/" target="blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium"/></a>&nbsp;&nbsp;
+<a href="https://shashank-goyal-blogs.medium.com/" target="blank"><img src="https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" alt="Medium"/></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/shashank-goyal-361362168/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;&nbsp;
 <a href="mailto:shashank3199@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 </p>
