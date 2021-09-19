@@ -45,6 +45,7 @@ I am a Final year student pursuing Computer Science at Manipal Institute of Tech
 ---
 📕 Latest Blog Posts -
 <!-- BLOG-POST-LIST:START -->
+- [Web Application Security Risks: OWASP Top 10](https://faun.pub/web-application-security-risks-owasp-top-10-bb4e8afbec75?source=rss-e85e3a6012ba------2)
 - [Modified Genetic Algorithm to solve the Zero-One Knapsack Problem: Implementation](https://medium.com/mlearning-ai/modified-genetic-algorithm-to-solve-the-zero-one-knapsack-problem-implementation-72d85c1c72?source=rss-e85e3a6012ba------2)
 - [Modified Genetic Algorithm to solve the Zero-One Knapsack Problem](https://medium.com/mlearning-ai/modified-genetic-algorithm-to-solve-the-zero-one-knapsack-problem-cc2f76d0050f?source=rss-e85e3a6012ba------2)
 - [Genetic Algorithms to solve the Zero-One Knapsack Problem: Implementation](https://faun.pub/genetic-algorithms-to-solve-the-zero-one-knapsack-problem-implementation-26c1982f44b3?source=rss-e85e3a6012ba------2)
