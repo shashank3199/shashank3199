@@ -46,10 +46,10 @@ I am a Final year student pursuing Computer Science at Manipal Institute of Tech
 📕 Latest Blog Posts -
 <!-- BLOG-POST-LIST:START -->
 - [Augmented Reality Sudoku Solver — Part I](https://medium.com/mlearning-ai/augmented-reality-sudoku-solver-part-i-8e29e59cecab?source=rss-e85e3a6012ba------2)
-- [Introduction to Traditional Cryptography Techniques](https://faun.pub/introduction-to-traditional-cryptography-techniques-417618d40e8f?source=rss-e85e3a6012ba------2)
 - [Web Application Security Risks: OWASP Top 10](https://faun.pub/web-application-security-risks-owasp-top-10-bb4e8afbec75?source=rss-e85e3a6012ba------2)
 - [Modified Genetic Algorithm to solve the Zero-One Knapsack Problem: Implementation](https://medium.com/mlearning-ai/modified-genetic-algorithm-to-solve-the-zero-one-knapsack-problem-implementation-72d85c1c72?source=rss-e85e3a6012ba------2)
 - [Modified Genetic Algorithm to solve the Zero-One Knapsack Problem](https://medium.com/mlearning-ai/modified-genetic-algorithm-to-solve-the-zero-one-knapsack-problem-cc2f76d0050f?source=rss-e85e3a6012ba------2)
+- [Genetic Algorithms to solve the Zero-One Knapsack Problem: Implementation](https://faun.pub/genetic-algorithms-to-solve-the-zero-one-knapsack-problem-implementation-26c1982f44b3?source=rss-e85e3a6012ba------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
