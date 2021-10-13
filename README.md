@@ -55,8 +55,8 @@ I am a Final year student pursuing Computer Science at Manipal Institute of Tech
 ---
 :zap: Recent Activity -
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/shashank3199/Tetrominoes-NEAT_AI/pull/3) in [shashank3199/Tetrominoes-NEAT_AI](https://github.com/shashank3199/Tetrominoes-NEAT_AI)
-2. 🎉 Merged PR [#2](https://github.com/shashank3199/Tetrominoes-NEAT_AI/pull/2) in [shashank3199/Tetrominoes-NEAT_AI](https://github.com/shashank3199/Tetrominoes-NEAT_AI)
+1. 🎉 Merged PR [#1](https://github.com/shashank3199/Medium-Blog-Gists/pull/1) in [shashank3199/Medium-Blog-Gists](https://github.com/shashank3199/Medium-Blog-Gists)
+2. 💪 Opened PR [#1](https://github.com/shashank3199/Medium-Blog-Gists/pull/1) in [shashank3199/Medium-Blog-Gists](https://github.com/shashank3199/Medium-Blog-Gists)
 <!--END_SECTION:activity-->
 
 ---
