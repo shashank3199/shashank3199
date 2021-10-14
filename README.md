@@ -55,8 +55,8 @@ I am a Final year student pursuing Computer Science at Manipal Institute of Tech
 ---
 :zap: Recent Activity -
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/shashank3199/Medium-Blog-Gists/pull/4) in [shashank3199/Medium-Blog-Gists](https://github.com/shashank3199/Medium-Blog-Gists)
-2. 💪 Opened PR [#4](https://github.com/shashank3199/Medium-Blog-Gists/pull/4) in [shashank3199/Medium-Blog-Gists](https://github.com/shashank3199/Medium-Blog-Gists)
+1. 🎉 Merged PR [#5](https://github.com/shashank3199/Medium-Blog-Gists/pull/5) in [shashank3199/Medium-Blog-Gists](https://github.com/shashank3199/Medium-Blog-Gists)
+2. 💪 Opened PR [#5](https://github.com/shashank3199/Medium-Blog-Gists/pull/5) in [shashank3199/Medium-Blog-Gists](https://github.com/shashank3199/Medium-Blog-Gists)
 <!--END_SECTION:activity-->
 
 ---
