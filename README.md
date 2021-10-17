@@ -45,11 +45,11 @@ I am a Final year student pursuing Computer Science at Manipal Institute of Tech
 ---
 📕 Latest Blog Posts -
 <!-- BLOG-POST-LIST:START -->
+- [Augmented Reality Sudoku Solver — Part IV](https://shashank-goyal-blogs.medium.com/augmented-reality-sudoku-solver-part-iv-65afe2231e46?source=rss-e85e3a6012ba------2)
 - [Augmented Reality Sudoku Solver — Part III](https://medium.com/mlearning-ai/augmented-reality-sudoku-solver-part-iii-d2370a9cbace?source=rss-e85e3a6012ba------2)
 - [Augmented Reality Sudoku Solver — Part II](https://medium.com/mlearning-ai/augmented-reality-sudoku-solver-part-ii-cdfc035a415c?source=rss-e85e3a6012ba------2)
 - [Augmented Reality Sudoku Solver — Part I](https://medium.com/mlearning-ai/augmented-reality-sudoku-solver-part-i-8e29e59cecab?source=rss-e85e3a6012ba------2)
 - [Web Application Security Risks: OWASP Top 10](https://faun.pub/web-application-security-risks-owasp-top-10-bb4e8afbec75?source=rss-e85e3a6012ba------2)
-- [Modified Genetic Algorithm to solve the Zero-One Knapsack Problem: Implementation](https://medium.com/mlearning-ai/modified-genetic-algorithm-to-solve-the-zero-one-knapsack-problem-implementation-72d85c1c72?source=rss-e85e3a6012ba------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
