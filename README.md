@@ -45,11 +45,11 @@ I am a Robotics Software Engineer, presently working at the AI & Robotics Techno
 ---
 📕 Latest Blog Posts -
 <!-- BLOG-POST-LIST:START -->
+- [AI learns to Play Tetris Game: Building the GUI](https://faun.pub/ai-learns-to-play-tetris-game-building-the-gui-38346e5984c8?source=rss-e85e3a6012ba------2)
 - [Augmented Reality Sudoku Solver — Part IV](https://medium.com/mlearning-ai/augmented-reality-sudoku-solver-part-iv-65afe2231e46?source=rss-e85e3a6012ba------2)
 - [Augmented Reality Sudoku Solver — Part III](https://medium.com/mlearning-ai/augmented-reality-sudoku-solver-part-iii-d2370a9cbace?source=rss-e85e3a6012ba------2)
 - [Augmented Reality Sudoku Solver — Part II](https://medium.com/mlearning-ai/augmented-reality-sudoku-solver-part-ii-cdfc035a415c?source=rss-e85e3a6012ba------2)
 - [Augmented Reality Sudoku Solver — Part I](https://medium.com/mlearning-ai/augmented-reality-sudoku-solver-part-i-8e29e59cecab?source=rss-e85e3a6012ba------2)
-- [Web Application Security Risks: OWASP Top 10](https://faun.pub/web-application-security-risks-owasp-top-10-bb4e8afbec75?source=rss-e85e3a6012ba------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
