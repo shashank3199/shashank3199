@@ -1,13 +1,14 @@
 <h2 align="center">Hi 👋, I'm Shashank Goyal aka TheLogicalPanda &nbsp;&nbsp; <img src="https://github.com/shashank3199/shashank3199/blob/master/.data/panda_waving.gif" width="50" height="50"/></h1>
 <h6 align="center">:robot: Robotics | :heart: Programming | :black_heart: Cyber Security</h3>
 
-I am a Robotics Software Engineer, presently working at the AI & Robotics Technology Park @ Indian Institute of Science, Bengaluru, India. I am a keen enthusiast of AI and Robotics and look forward to collaboration and teaching opportunities in this field. I am also a Cyber-Security Hobbyist and I actively participate in Capture-The-Flag Events.
+Hello! I'm Shashank Goyal, a passionate Dual Master's student at Johns Hopkins University, pursuing degrees in Computer Science and Robotics. As a results-driven Computer Science and Robotics Engineer, I hope to bring a wealth of academic excellence and research acumen, particularly in AI and Robotics.
+My journey is fueled by an insatiable curiosity for the realms of AI and Robotics, and I'm always on the lookout for exciting collaborations and challenging opportunities in this ever-evolving field.
+My approach to problem-solving is deeply rooted in scientific rigor and technical finesse, which I have channeled into a series of innovative projects. I've memorialized some of these ventures in a collection of technical blogs.
 
-- 🔭 I'm currently working on projects including deep-learning, computer-vision and robotics.
+- 🔭 I'm currently working on projects including Robotics, Deep-Learning, and Computer-Vision.
+- 🥅 2024 Goals: Contribute more to Open Source projects.
 - 🤝 I’m looking to collaborate with other developers in these domains.
 - 💬 Ask me about anything. I will try to help you as much as I can.
-- 🥅 2021 Goals: Contribute more to Open Source projects.
-- ⚡ Fun fact: I love solving puzzles.
 
 ### Languages and Tools:
 
