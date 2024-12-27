@@ -46,11 +46,11 @@ My approach to problem-solving is deeply rooted in scientific rigor and technica
 ---
 📕 Latest Blog Posts -
 <!-- BLOG-POST-LIST:START -->
-- [AI learns to Play Tetris Game: Building the GUI](https://faun.pub/ai-learns-to-play-tetris-game-building-the-gui-38346e5984c8?source=rss-e85e3a6012ba------2)
-- [Augmented Reality Sudoku Solver — Part IV](https://medium.com/mlearning-ai/augmented-reality-sudoku-solver-part-iv-65afe2231e46?source=rss-e85e3a6012ba------2)
-- [Augmented Reality Sudoku Solver — Part III](https://medium.com/mlearning-ai/augmented-reality-sudoku-solver-part-iii-d2370a9cbace?source=rss-e85e3a6012ba------2)
-- [Augmented Reality Sudoku Solver — Part II](https://medium.com/mlearning-ai/augmented-reality-sudoku-solver-part-ii-cdfc035a415c?source=rss-e85e3a6012ba------2)
-- [Augmented Reality Sudoku Solver — Part I](https://medium.com/mlearning-ai/augmented-reality-sudoku-solver-part-i-8e29e59cecab?source=rss-e85e3a6012ba------2)
+- [Exploring the Beauty of Euler’s Identity](https://shashank-goyal-blogs.medium.com/exploring-the-beauty-of-eulers-identity-7a42805520dd?source=rss-e85e3a6012ba------2)
+- [AI learns to Play Tetris Game: Building the Intelligence](https://shashank-goyal-blogs.medium.com/ai-learns-to-play-tetris-game-building-the-intelligence-b6e1a7109ef6?source=rss-e85e3a6012ba------2)
+- [ROS2 Humble GUI-Docker Container: A Step-by-Step Guide](https://shashank-goyal-blogs.medium.com/ros2-humble-gui-docker-container-a-step-by-step-guide-c541b73fe141?source=rss-e85e3a6012ba------2)
+- [Introduction to Brain-Computer Interfaces](https://shashank-goyal-blogs.medium.com/introduction-to-brain-computer-interfaces-171f4e725bb4?source=rss-e85e3a6012ba------2)
+- [Diving Deeper into BCI Technologies: Non-Invasive vs. Invasive Modalities](https://shashank-goyal-blogs.medium.com/diving-deeper-into-bci-technologies-non-invasive-vs-invasive-modalities-4cd55f74ab12?source=rss-e85e3a6012ba------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
