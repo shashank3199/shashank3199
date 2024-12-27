@@ -56,8 +56,8 @@ My approach to problem-solving is deeply rooted in scientific rigor and technica
 ---
 :zap: Recent Activity -
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/shashank3199/Medium-Blog-Gists/pull/7) in [shashank3199/Medium-Blog-Gists](https://github.com/shashank3199/Medium-Blog-Gists)
-2. 💪 Opened PR [#7](https://github.com/shashank3199/Medium-Blog-Gists/pull/7) in [shashank3199/Medium-Blog-Gists](https://github.com/shashank3199/Medium-Blog-Gists)
+1. ❗ Opened issue [#19051](https://github.com/ruffle-rs/ruffle/issues/19051) in [ruffle-rs/ruffle](https://github.com/ruffle-rs/ruffle)
+2. 🚀 Published release [1.0.0](https://github.com/shashank3199/dvrk_urdf/releases/tag/1.0.0) in [shashank3199/dvrk_urdf](https://github.com/shashank3199/dvrk_urdf)
 <!--END_SECTION:activity-->
 
 ---
