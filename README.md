@@ -46,11 +46,11 @@ My approach to problem-solving is deeply rooted in scientific rigor and technica
 ---
 📕 Latest Blog Posts -
 <!-- BLOG-POST-LIST:START -->
+- [Mastering ROS2: Building Robust Communication with Custom Messages, Services, and Actions](https://shashank-goyal-blogs.medium.com/mastering-ros2-building-robust-communication-with-custom-messages-services-and-actions-9a49b4cd8b16?source=rss-e85e3a6012ba------2)
 - [Mastering ROS2: Your Ultimate Beginner’s Guide to Robotics](https://shashank-goyal-blogs.medium.com/mastering-ros2-your-ultimate-beginners-guide-to-robotics-a72179db4c84?source=rss-e85e3a6012ba------2)
 - [Exploring the Beauty of Euler’s Identity](https://shashank-goyal-blogs.medium.com/exploring-the-beauty-of-eulers-identity-7a42805520dd?source=rss-e85e3a6012ba------2)
 - [AI learns to Play Tetris Game: Building the Intelligence](https://shashank-goyal-blogs.medium.com/ai-learns-to-play-tetris-game-building-the-intelligence-b6e1a7109ef6?source=rss-e85e3a6012ba------2)
 - [ROS2 Humble GUI-Docker Container: A Step-by-Step Guide](https://shashank-goyal-blogs.medium.com/ros2-humble-gui-docker-container-a-step-by-step-guide-c541b73fe141?source=rss-e85e3a6012ba------2)
-- [Introduction to Brain-Computer Interfaces](https://shashank-goyal-blogs.medium.com/introduction-to-brain-computer-interfaces-171f4e725bb4?source=rss-e85e3a6012ba------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
