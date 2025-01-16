@@ -46,10 +46,10 @@ My approach to problem-solving is deeply rooted in scientific rigor and technica
 ---
 📕 Latest Blog Posts -
 <!-- BLOG-POST-LIST:START -->
-- [Mastering ROS2: Orchestrating Your Robot’s Architecture with Nodes and Launch Files](https://shashank-goyal-blogs.medium.com/mastering-ros2-orchestrating-your-robots-architecture-with-nodes-and-launch-files-2e8aae3fc917?source=rss-e85e3a6012ba------2)
-- [Mastering ROS2: Harnessing the Power of ROS2 Parameters for Real-Time Configuration](https://shashank-goyal-blogs.medium.com/mastering-ros2-harnessing-the-power-of-ros2-parameters-for-real-time-configuration-afd4c3890fc9?source=rss-e85e3a6012ba------2)
-- [Mastering ROS2: Building Robust Communication with Custom Messages, Services, and Actions](https://shashank-goyal-blogs.medium.com/mastering-ros2-building-robust-communication-with-custom-messages-services-and-actions-9a49b4cd8b16?source=rss-e85e3a6012ba------2)
-- [Mastering ROS2: Your Ultimate Beginner’s Guide to Robotics](https://shashank-goyal-blogs.medium.com/mastering-ros2-your-ultimate-beginners-guide-to-robotics-a72179db4c84?source=rss-e85e3a6012ba------2)
+- [Mastering ROS2: Orchestrating Your Robot’s Architecture with Nodes and Launch Files](https://faun.pub/mastering-ros2-orchestrating-your-robots-architecture-with-nodes-and-launch-files-2e8aae3fc917?source=rss-e85e3a6012ba------2)
+- [Mastering ROS2: Harnessing the Power of ROS2 Parameters for Real-Time Configuration](https://faun.pub/mastering-ros2-harnessing-the-power-of-ros2-parameters-for-real-time-configuration-afd4c3890fc9?source=rss-e85e3a6012ba------2)
+- [Mastering ROS2: Building Robust Communication with Custom Messages, Services, and Actions](https://faun.pub/mastering-ros2-building-robust-communication-with-custom-messages-services-and-actions-9a49b4cd8b16?source=rss-e85e3a6012ba------2)
+- [Mastering ROS2: Your Ultimate Beginner’s Guide to Robotics](https://faun.pub/mastering-ros2-your-ultimate-beginners-guide-to-robotics-a72179db4c84?source=rss-e85e3a6012ba------2)
 - [Exploring the Beauty of Euler’s Identity](https://shashank-goyal-blogs.medium.com/exploring-the-beauty-of-eulers-identity-7a42805520dd?source=rss-e85e3a6012ba------2)
 <!-- BLOG-POST-LIST:END -->
 
